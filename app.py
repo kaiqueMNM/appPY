@@ -311,5 +311,3 @@ else:
         # Exemplo de formato
         st.subheader("📝 Colunas necessárias:")
         st.code("\n".join(EXPECTED_COLUMNS))
-
-eu preciso apenas que você trabalhe no frontend sem influenciar no funcionamento do sistema
