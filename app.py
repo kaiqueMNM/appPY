@@ -1,5 +1,3 @@
-olá, eu já tenho o meu codigo pronto 
-
 import streamlit as st
 import pandas as pd
 import plotly.express as px
